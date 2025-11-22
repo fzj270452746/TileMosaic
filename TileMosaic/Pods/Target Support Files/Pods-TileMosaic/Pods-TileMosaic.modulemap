@@ -1,0 +1,6 @@
+framework module Pods_TileMosaic {
+  umbrella header "Pods-TileMosaic-umbrella.h"
+
+  export *
+  module * { export * }
+}
